@@ -1,4 +1,4 @@
-# react sample
+# React JS sample
 Sample Application in React using Redux
 
 
